@@ -1,0 +1,2 @@
+ec2_name="test_scheduler"
+ec2_id="i-xxxxxxxxxxxxxxxxx"
